@@ -43,8 +43,8 @@ module.exports = {
   }, 
   SiteSocialLinks: {
     twitter: 'https://twitter.com/liviamcarneiro',
-    github: 'https://github.com/AbdaliDahir',
-    linkedin: 'https://twitter.com/liviamcarneiro',
+    github: 'https://github.com/liviamcarneiro',
+    linkedin: 'https://www.linkedin.com/in/livia-mendes-carneiro-a2911b37/',
     university: 'https://sites.google.com/unipv.it/phd-aem/home-page',
   },
   SiteAddress: {

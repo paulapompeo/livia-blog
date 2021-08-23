@@ -31,7 +31,6 @@ export const SubRight = styled.p`
 	font-size: 1rem;
 	line-height: 1.8;
 	letter-spacing:2px;
-	text-transform: capitalize;
 	margin-bottom: 20px;
 	font-family: "GT-Walsheim-Pro-Bold";
 `	
@@ -39,7 +38,6 @@ export const CopyRight = styled.p`
 	font-size: 11px;
 	line-height: 1.8;
 	letter-spacing:1px;
-	text-transform: capitalize;
 `
 export const FooterBody = styled.div`
 	display: grid;
@@ -66,7 +64,6 @@ export const MediaLink = styled.a`
 	padding-bottom: .5rem;
 	line-height: 1;
 	font-size: 1rem;
-  text-transform: capitalize;
   font-family: "GT-Walsheim-Pro-Bold";
 	color: ${variables.primary};
 	

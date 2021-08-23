@@ -31,7 +31,7 @@ const Home = () => {
               <Text> I am graduated in Business Administration at FGV-EAESP (Brazil). After graduating, I held different roles in Finance in the Brazilian private sector. </Text>
               <Text> Despite being in a good situation in my professional career, I was not intellectually or personally fulfilled. Consequently, I decided to pursue a master’s degree in Business Administration, concentrated in Finance, at FGV-EAESP.</Text>
               <Text> At the beginning of the master's course, I joined the Finance Research Center (FGVCef) of the university, where I worked on several research projects. I also worked as a teaching assistant (TA) in various Finance courses.</Text>
-              <Text> I am currently a Ph.D. student in Applied Economics and Management at <b className="text-primary lined-link"><a href="https://sites.google.com/unipv.it/phd-aem/home-page" target="_blank">University of Pavia and University of Bergamo</a></b></Text>
+              <Text> I am currently a Ph.D. student in Applied Economics and Management at <b className="text-primary lined-link"><a href="https://sites.google.com/unipv.it/phd-aem/home-page" target="_blank">University of Pavia and University of Bergamo</a></b>.</Text>
             </div>
           </AboutSection>
         </ContainerLayout>

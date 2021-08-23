@@ -44,7 +44,6 @@ export const Title = styled.h2`
   margin-bottom: 0;
   margin-top: 0;
   font-size: 1.4rem;
-  text-transform: capitalize;
   font-family: "GT-Walsheim-Pro-Bold";
   @media(max-width: ${variables.breakpointPhone}) {
     font-size: 1rem;
@@ -59,7 +58,6 @@ export const Text = styled.p`
   margin-bottom: 1rem;
   margin-top: .25rem;
   font-size: 1rem;
-  text-transform: capitalize;
   @media(max-width: ${variables.breakpointPhone}) {
     font-size: .9rem;
   }
