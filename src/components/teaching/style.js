@@ -19,3 +19,12 @@ export const Text = styled.p`
     text-decoration: underline;
   }
 `
+
+export const List = styled.ul`
+  list-style-type: none;
+`
+export const ListItem = styled.li`
+  font-size: 1.2rem;
+  line-height: 2;
+  color: #232323;
+`

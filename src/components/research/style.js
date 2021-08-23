@@ -15,7 +15,7 @@ export const Text = styled.p`
   color: #232323;
   text-transform: capitalize;
   a {
-    color: #3F51B5;
-    text-decoration: underline;
+    color: ${variables.primary};
+    text-decoration: none;
   }
 `

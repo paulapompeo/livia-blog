@@ -1,10 +1,10 @@
 module.exports = {
-  SiteTitle: 'Abdelali',
+  SiteTitle: 'Livia Carneiro',
   Sitelogo: '#',
-  SiteLogoText: 'Abdelali',
-  SiteAuthor: 'Abdelali Dahir',
-  SiteDescription: 'Front End Developer',
-  defaultDescription: 'Software engineer!', 
+  SiteLogoText: 'Livia Carneiro',
+  SiteAuthor: 'Livia Carneiro',
+  SiteDescription: 'Ph.D. Student in Applied Economics and Management',
+  defaultDescription: 'Ph.D. Student', 
   githubApiQuery: `query ($number_of_repos: Int!) {
     viewer {
       name
@@ -42,19 +42,20 @@ module.exports = {
     number_of_repos: 12,
   }, 
   SiteSocialLinks: {
-    twitter: 'https://twitter.com/AbdaliDahir',
+    twitter: 'https://twitter.com/liviamcarneiro',
     github: 'https://github.com/AbdaliDahir',
-    linkedin: 'https://www.linkedin.com/in/abdelali-dahir-0b5344111/',
+    linkedin: 'https://twitter.com/liviamcarneiro',
+    university: 'https://sites.google.com/unipv.it/phd-aem/home-page',
   },
   SiteAddress: {
-    city: 'Casablanca',
-    region: 'CurvaSud',
-    country: 'Morocco',
+    city: 'Milano',
+    region: 'MI',
+    country: 'Italy',
     zipCode: 'ZipCode',
   },
   SiteContact: {
-    email: 'abdali.dahir@gmail.com',
+    email: 'livia.mendescarneiro01@universitadipavia.it',
     phone: 'phone number',
   },
-  SiteCopyright: '2020',
+  SiteCopyright: '2021',
 };
