@@ -13,5 +13,4 @@ export const ContainerLayout = styled.div`
   @media only screen and (min-width: ${variables.breakpointLarge}) {
     max-width: 75rem;
   }
-  
 `
