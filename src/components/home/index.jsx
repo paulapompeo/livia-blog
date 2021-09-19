@@ -38,11 +38,11 @@ const Home = () => {
             <div>
               <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="user photo" />
               <SubTitle> Ph.D. Student in Applied Economics and Management at University of Pavia and University of Bergamo</SubTitle>
-              <ResumeButton href="Academic_CV_Final.pdf" target="_blank"> Download cv </ResumeButton>
               <div className='logo-container'>
                 <UniLogo fluid={data.placeholderImagePavia.childImageSharp.fluid} />
                 <UniLogo fluid={data.placeholderImageBergamo.childImageSharp.fluid} />
               </div>
+              <ResumeButton href="Academic_CV_Final.pdf" target="_blank"> Download cv </ResumeButton>
             </div>
             <div>
               <Title> Hello, I’m Livia Mendes Carneiro </Title>
