@@ -37,7 +37,7 @@ const Home = () => {
           <AboutSection>
             <div>
               <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="user photo" />
-              <SubTitle> Ph.D. Student in Applied Economics and Management at University of Pavia and University of Bergamo</SubTitle>
+              <SubTitle> Ph.D. STUDENT IN APPLIED ECONOMICS AND MANAGEMENT AT UNIVERSITY OF PAVIA AND UNIVERSITY OF BERGAMO</SubTitle>
               <div className='logo-container'>
                 <UniLogo fluid={data.placeholderImagePavia.childImageSharp.fluid} />
                 <UniLogo fluid={data.placeholderImageBergamo.childImageSharp.fluid} />
