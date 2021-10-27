@@ -10,7 +10,7 @@
 
 creative personal & portfolio template based on [gatsby](https://gatsby-persoanl.netlify.app/)
 
-## 🚀 Quick start
+## 🚀 Live
 
 [Livia's Portfolio](https://liviacarneiro.com/)
 
